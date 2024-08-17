@@ -1,6 +1,4 @@
 ﻿using Catalog.API.Exceptions;
-using Catalog.API.Products.CreateProduct;
-using FluentValidation;
 
 namespace Catalog.API.Products.UpdateProduct;
 
